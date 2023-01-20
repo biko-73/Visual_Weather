@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='Visual_Weather/main'
 
-MY_IPK="enigma2-plugin-extensions-visualweather_1.05_all.ipk"
-MY_DEB="enigma2-plugin-extensions-visualweather_1.05_all.deb"
+MY_IPK="enigma2-plugin-extensions-visualweather_1.07_all.ipk"
+MY_DEB="enigma2-plugin-extensions-visualweather_1.07_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
